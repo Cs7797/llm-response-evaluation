@@ -1,0 +1,13 @@
+EXAMPLE STORE — REFUND POLICY
+Synthetic practice source for an independent LLM evaluation exercise
+
+1. Customers may request a refund within 14 calendar days of delivery.
+2. Products must be unused and returned with their original packaging.
+3. Refund requests must include the order number.
+4. Approved refunds are processed within 5–7 business days after the returned product is received.
+5. This policy does not specify whether shipping charges are refundable.
+
+Important:
+- This is fictional policy text created for evaluation practice.
+- Treat only the statements above as the source of truth for the exercise.
+- Do not infer rules that are not stated in this policy.
